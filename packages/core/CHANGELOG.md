@@ -1,5 +1,38 @@
 # @keystone-6/core
 
+## 2.0.0
+
+### Major Changes
+
+- [#7410](https://github.com/keystonejs/keystone/pull/7410) [`717830fd2`](https://github.com/keystonejs/keystone/commit/717830fd2388db372a047737fcb6bd3e13eeb313) Thanks [@renovate](https://github.com/apps/renovate)! - upgrade dependancy `"react": "^18.1.0"`
+
+### Minor Changes
+
+- [#7546](https://github.com/keystonejs/keystone/pull/7546) [`19446362f`](https://github.com/keystonejs/keystone/commit/19446362fe0816093b5cf7342e8644d5a3f816d6) Thanks [@Achisingh](https://github.com/Achisingh)! - Removed all Keystone Links, i.e. API explorer, GitHub repository and Keystone documentation, from the popover and replacing the popover button with `Sign out` button in production
+
+* [#7537](https://github.com/keystonejs/keystone/pull/7537) [`3fe69ed96`](https://github.com/keystonejs/keystone/commit/3fe69ed96b4817ae7cd10193acb5b06f247ce454) Thanks [@Achisingh](https://github.com/Achisingh)! - Fixed list description from schema to display in the Admin UI
+
+### Patch Changes
+
+- [#7543](https://github.com/keystonejs/keystone/pull/7543) [`0af99e462`](https://github.com/keystonejs/keystone/commit/0af99e4627765b8a63c899dafa3daf715709c1e3) Thanks [@mitchellhamilton](https://github.com/mitchellhamilton)! - Fixed the viewport sometimes shifting when opening the date picker in the create drawer.
+
+* [#7548](https://github.com/keystonejs/keystone/pull/7548) [`ea34fb183`](https://github.com/keystonejs/keystone/commit/ea34fb183423bea3ded7fc29fc022d8f3b56a924) Thanks [@mitchellhamilton](https://github.com/mitchellhamilton)! - The label shown for a text field in the Admin UI is now associated with the input so the label can be read by screen readers
+
+* Updated dependencies [[`0af99e462`](https://github.com/keystonejs/keystone/commit/0af99e4627765b8a63c899dafa3daf715709c1e3), [`0af99e462`](https://github.com/keystonejs/keystone/commit/0af99e4627765b8a63c899dafa3daf715709c1e3), [`717830fd2`](https://github.com/keystonejs/keystone/commit/717830fd2388db372a047737fcb6bd3e13eeb313)]:
+  - @keystone-ui/popover@6.0.0
+  - @keystone-ui/fields@7.0.0
+  - @keystone-ui/button@7.0.0
+  - @keystone-ui/core@5.0.0
+  - @keystone-ui/icons@6.0.0
+  - @keystone-ui/loading@6.0.0
+  - @keystone-ui/modals@6.0.0
+  - @keystone-ui/notice@6.0.0
+  - @keystone-ui/options@6.0.0
+  - @keystone-ui/pill@7.0.0
+  - @keystone-ui/segmented-control@7.0.0
+  - @keystone-ui/toast@6.0.0
+  - @keystone-ui/tooltip@6.0.0
+
 ## 1.1.1
 
 ### Patch Changes

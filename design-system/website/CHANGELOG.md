@@ -1,5 +1,27 @@
 # @keystone-ui/website
 
+## 5.0.0
+
+### Major Changes
+
+- [#7410](https://github.com/keystonejs/keystone/pull/7410) [`717830fd2`](https://github.com/keystonejs/keystone/commit/717830fd2388db372a047737fcb6bd3e13eeb313) Thanks [@renovate](https://github.com/apps/renovate)! - upgrade dependancy `"react": "^18.1.0"`
+
+### Patch Changes
+
+- Updated dependencies [[`0af99e462`](https://github.com/keystonejs/keystone/commit/0af99e4627765b8a63c899dafa3daf715709c1e3), [`0af99e462`](https://github.com/keystonejs/keystone/commit/0af99e4627765b8a63c899dafa3daf715709c1e3), [`717830fd2`](https://github.com/keystonejs/keystone/commit/717830fd2388db372a047737fcb6bd3e13eeb313)]:
+  - @keystone-ui/popover@6.0.0
+  - @keystone-ui/fields@7.0.0
+  - @keystone-ui/button@7.0.0
+  - @keystone-ui/core@5.0.0
+  - @keystone-ui/loading@6.0.0
+  - @keystone-ui/modals@6.0.0
+  - @keystone-ui/notice@6.0.0
+  - @keystone-ui/options@6.0.0
+  - @keystone-ui/pill@7.0.0
+  - @keystone-ui/segmented-control@7.0.0
+  - @keystone-ui/toast@6.0.0
+  - @keystone-ui/tooltip@6.0.0
+
 ## 4.0.0
 
 ### Major Changes
